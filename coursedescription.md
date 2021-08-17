@@ -16,7 +16,7 @@ A significant part of the course is build on material from CompSys. If you feel 
  * Mondays at 10-12
  * Fridays at 10-12
 
-All lectures will be online
+All lectures will be online and will be recorded. 
 
 Instructors:
   * Michael Kirkedal Thomsen (course organiser)
@@ -63,6 +63,8 @@ There are 6 weekly assignment during the course.
 The assignments will be pass/fail; expect to have at least 66 % of an assignment correct to get a pass. It will be possible to re-handin one (and only one) assigment (1-4); deadline 24 Oct @ 16:00.
 
 All assignment will be in groups up to 3 persons. That means that you can discuss relating material and solutions with fellow students (outside the group), TAs and lectures (it is actually encouraged), but your group have to write up your own solution to the problems. You are under no circumstances allowed to share your written solutions with fellow students outside the group.
+
+Note that all deadlines are Sunday, except Assignment 6, which are Saturday.
 
 ### Feedback
 Short written feedback to assignments will be given by TAs on the course. It will be given before the following exercise session, where you have the possibility to discuss with your TA. Feedback will focus on what could be approved in the assignment. The feedback may thus be useful for later assignments or the re-handin. Feedback will not give a direct justification of the evaluation (pass/fail).

@@ -1,1 +1,1 @@
-# its-e2021-pub
+# IT-sikkerhed e2021 @ DIKU

@@ -35,6 +35,7 @@ The exercises will be partly online and partly held at KU.
  * Tore Hald Simonsen
  * Niels-Christian Buch
  * Frederik Lunn Berthelsen
+ * Niels Gøttge Lerche Hansen
 
 ### Room
 Not fixed yet.

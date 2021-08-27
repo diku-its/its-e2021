@@ -38,8 +38,9 @@ The exercises will be partly online and partly held at KU.
  * Niels Gøttge Lerche Hansen
 
 ### Room
-Not fixed yet.
 
+  * BIOcenter 4-0-02
+  * BIOcenter 4-0-13
 
 ## Teaching Material
 

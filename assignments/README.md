@@ -1,6 +1,6 @@
 # Assignment requirements
 
-You are allowed solve the assignments in groups of up to four members.
+You are allowed solve the assignments in groups of up to three members.
 
 You should document your work in a short report of about 3-5 pages, including:
 

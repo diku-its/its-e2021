@@ -35,7 +35,7 @@ This course schedule will be updated as needed.
 |      | 30 Oct |                  |         | Assignment 6 handin                                       | 
 | 44   | 01 Nov | 10-11            | TL      | Security in the industry and career paths                 | 
 |      |        | 11-12            | All     | Q/A                                                       | 
-| 45   | 12 Nov |                  |         | Exam                                                      | All of the above
+| 45   | 13 Nov |                  |         | Exam - NB! a Saturday                                     | All of the above
 
 
 SB: Computer Security: Principles and Practice, William Stalling & Lawrie Brown, 4th and Global Edition, Pearson

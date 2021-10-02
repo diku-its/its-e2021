@@ -15,13 +15,13 @@ This course schedule will be updated as needed.
 |      | 21 Sep | 13-17            |         | Exercise class                                            | [Assignment 2](assignments/assignment2.md)
 |      | 24 Sep | 10-12            | CJ      | Cloud and IoT security                                    | SB 13
 |      | 26 Sep |                  |         | Assignment 2 handin                                       | 
-| 39   | 27 Sep | 10-12            | TL      | Malware                                                   | SB 6
+| 39   | 27 Sep | 10-12            | TL      | Malware -- Cancelled                                      | SB 6
 |      | 28 Sep | 13-17            |         | Exercise class                                            | [Assignment 3](assignments/assignment3.md)
 |      | 01 Oct | 10-12            | CJ      | Firewalls and denial-of-service attacks                   | SB 7, 9
 |      | 03 Oct |                  |         | Assignment 3 handin                                       | 
 | 40   | 04 Oct | 10-12            | TL      | Internet security protocols                               | SB 22, 23
 |      | 05 Oct | 13-17            |         | Exercise class                                            | [Assignment 4](assignments/assignment4.md)
-|      | 08 Oct | 10-12            | TL      | Intrusion detection                                       | SB 8
+|      | 08 Oct | 09-12            | TL      | Intrusion detection -- and Malware                        | SB 8
 |      | 10 Oct |                  |         | Assignment 4 handin                                       | 
 | 41   | 11 Oct | 10-12            | TL      | Incident response and forensics                           | [Guide to Integrating Forensic Techniques into Incident Response](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-86.pdf) ch. 3-5
 |      | 12 Oct | 13-17            |         | Exercise class                                            | [Assignment 5](assignments/assignment5.md)

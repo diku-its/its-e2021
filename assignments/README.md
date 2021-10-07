@@ -2,7 +2,7 @@
 
 You are allowed solve the assignments in groups of up to three members.
 
-You should document your work in a short report of about 3-5 pages, including:
+You should document your SEEDLab work in a short report of about 3-5 pages, including:
 
   * A short explanation of the problem that is to be investigated (in your own words)
   * A description of the necessary background; focus on interesting relating material

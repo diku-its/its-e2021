@@ -35,8 +35,8 @@ This course schedule will be updated as needed.
 |      | 29 Oct | 10-12            | CJ      | GDPR                                                      | [The EU Article 29 Data Protection](https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf), [Datatilsynet: Behandlingssikkerhed og databeskyttelse gennem design og standardindstillinger, del II](https://datatilsynet.dk/media/7587/artikel25og32-vejledning.pdf)
 |      | 30 Oct |                  |         | Assignment 6 handin                                       | 
 | 44   | 01 Nov | 09-10            | TL      | Incident response and forensics                           | 
-|      |        | 10-11            | TL      | Security in the industry and career paths                 | 
-|      |        | 11-12            | All     | Q/A                                                       | 
+|      |        | 10-11            | Guest   | Security in the industry and career paths                 | 
+|      |        | 11-12            | TL/MKT  | Q/A                                                       | 
 | 45   | 13 Nov |                  |         | Exam - NB! a Saturday                                     | All of the above
 
 
